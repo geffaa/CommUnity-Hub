@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "973396217078",
+    "project_id": "communityhub-4ccd6",
+    "storage_bucket": "communityhub-4ccd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973396217078:android:b15ed2250ce9f350c3b0d7",
+        "android_client_info": {
+          "package_name": "com.example.community_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnmO5bhI4oMbksC4KEslNKSQThZDEn3Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973396217078:android:c0f44d18d5c75c74c3b0d7",
+        "android_client_info": {
+          "package_name": "com.example.communityhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnmO5bhI4oMbksC4KEslNKSQThZDEn3Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
